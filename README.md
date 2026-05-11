@@ -1,4 +1,4 @@
-## Hi, I'm Vito 
+## Hi, I'm Vito 👋
 
 Software Engineering student based in Chile.
 
@@ -11,4 +11,3 @@ I mostly work with Python and the JavaScript/TypeScript ecosystem — React and 
 ---
 
 <p align="center"><i>It's what Himmel the Hero would have done.</i></p>
-👋
